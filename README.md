@@ -1,10 +1,8 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
 - 💬 Ask me about **Python,SQL,Machine learning,Deep Learning,Pyspark,Hadoop**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
